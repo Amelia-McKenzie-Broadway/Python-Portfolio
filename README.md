@@ -499,13 +499,13 @@ fig.tight_layout()
 
 ```python
 
+```
 
 
+# Python Fundamentals
 
 
-# PYTHON FUNDAMENTALS
-
-
+```
 
 ```python
 # Any python interpreter can be used as a calculator:
