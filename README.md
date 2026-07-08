@@ -503,6 +503,8 @@ fig.tight_layout()
 
 
 
+# PYTHON FUNDAMENTALS
+
 
 
 ```python
@@ -643,7 +645,7 @@ print('weight in kilograms is now:', weight_kg)
 ```
 
 
-
+# Analyzing Patient Data Part 1, 2, and 3
 
 ```
 
@@ -958,7 +960,7 @@ matplotlib.pyplot.show()
 ```
 
 
-
+# Storing Values in Lists
 
 
 
@@ -1067,7 +1069,7 @@ print(len(name))
 
 
 
-
+# Using Loops
 
 
 
@@ -1145,7 +1147,7 @@ for filename in filenames:
 
 
 
-
+# Using Multiple Files
 
 
 
@@ -1221,7 +1223,7 @@ else:
 
 
 
-
+# Making Choices
 
 
 
@@ -1362,7 +1364,7 @@ print_temperatures()
 ```
 
 
-
+# Functions Part 1, 2, 3, and 4
 
 
 ```python
@@ -1806,7 +1808,7 @@ numpy.loadtxt('inflammation-01.csv', delimiter = ',')
 
 
 
-
+# Defensive Programming
 
 
 
